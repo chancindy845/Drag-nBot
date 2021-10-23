@@ -1,10 +1,10 @@
-const imagemaker = (prefix, botName, ownerName) => {
+const imagemaker = (prefix, Drag-nBot, Dragón) => {
         return `
-「 *${botName}* 」
+「 *${Drag-nBot}* 」
 
 ◪ *INFO*
   ❏ Prefix: 「  ${prefix}  」
-  ❏ Creator: ${ownerName}
+  ❏ Creator: ${Dragón}
 ◪ *ABOUT*
   │
   ├─ ❏ ${prefix}info
