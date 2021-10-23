@@ -1445,7 +1445,7 @@ break
 case 'daftar':
 client.updatePresence(from, Presence.composing)
 if (isUser) return reply('Ya estas registrado pendejo')
-if (args.length < 1) return reply(`Incorrecto ❎\nComando: ${prefix}daftar Nombre\n\nEjemplo: ${prefix}daftar Ochoa`)
+if (args.length < 1) return reply(`Incorrecto ❎\nComando: ${prefix}daftar Nombre\n\nEjemplo: ${prefix}daftar Dragón`)
 var reg = body.slice(8)
 var nombre = reg.split("|")[0];
 user.push(sender)
