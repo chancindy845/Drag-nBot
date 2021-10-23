@@ -1,10 +1,10 @@
 const wibu = (prefix, ownerBot, botName) => {
         return `
-「 *${XavyBot}* 」
+「 *${Drag-nBot}* 」
 
 ◪ *INFO*
   ❏ Prefix: 「  ${prefix}  」
-  ❏ Creator: ${Ochoa}
+  ❏ Creator: ${Dragón}
 ◪ *ABOUT*
   │
   ├─ ❏ ${prefix}info
